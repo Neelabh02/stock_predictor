@@ -14,7 +14,7 @@ This project aims to build an end-to-end deep learning-based system that predict
 - To visualize stock trends using moving averages
 - To deploy an interactive web application using Streamlit
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Language
 - Python
