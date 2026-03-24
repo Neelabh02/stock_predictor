@@ -62,7 +62,6 @@ This project aims to build an end-to-end deep learning-based system that predict
 - The model uses the last 100 days of stock prices as input
 - Predicts the next day's stock price
 - Predictions are rescaled back to original values using inverse scaling
-https://stock-predictor-o3ym.onrender.com/
 
 ## Deployment
 - Built an interactive web application using Streamlit
